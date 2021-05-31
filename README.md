@@ -1,4 +1,4 @@
 # Python_Study
 Python for Datascience
 
-Each notebook consist of different topics python basics with example code snippets
+Each notebook consist of different topics on python basics with example snippets
